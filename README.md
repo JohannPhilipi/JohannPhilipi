@@ -7,6 +7,11 @@
 - 29 anos, Florianópolis-SC
 - Tecnologia, Musica, VideoGames, Futebol e Cerveja
 
+## 📚 Estudando
+
+- GoLang
+- Python
+
 ## 💻 Projetos atuais
 
 - [bra-loterias](https://github.com/JohannPhilipi/bra-loterias)
