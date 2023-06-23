@@ -2,19 +2,17 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/johann-philipi-10509780/)
 
-### Buscando oportunidades de Dev-Backend
-
 - 29 anos, Florianópolis-SC
 - Tecnologia, Musica, VideoGames, Futebol e Cerveja
 
 ## 📚 Estudando
 
-- GoLang
 - Python
+- GoLang
 
 ## 💻 Projetos atuais
 
-- [bra-loterias](https://github.com/JohannPhilipi/bra-loterias)
+- não definido
 
 ![Johann github stats](https://github-readme-stats.vercel.app/api?username=JohannPhilipi&show_icons=true&theme=tokyonight)
 
